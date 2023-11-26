@@ -1,0 +1,14 @@
+D:\Programowanie\Apps\Kipsi\KeepItShort.Persistance\bin\Debug\net6.0\KeepItShort.Persistance.deps.json
+D:\Programowanie\Apps\Kipsi\KeepItShort.Persistance\bin\Debug\net6.0\KeepItShort.Persistance.runtimeconfig.json
+D:\Programowanie\Apps\Kipsi\KeepItShort.Persistance\bin\Debug\net6.0\KeepItShort.Persistance.dll
+D:\Programowanie\Apps\Kipsi\KeepItShort.Persistance\bin\Debug\net6.0\KeepItShort.Persistance.pdb
+D:\Programowanie\Apps\Kipsi\KeepItShort.Persistance\obj\Debug\net6.0\KeepItShort.Persistance.csproj.AssemblyReference.cache
+D:\Programowanie\Apps\Kipsi\KeepItShort.Persistance\obj\Debug\net6.0\KeepItShort.Persistance.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programowanie\Apps\Kipsi\KeepItShort.Persistance\obj\Debug\net6.0\KeepItShort.Persistance.AssemblyInfoInputs.cache
+D:\Programowanie\Apps\Kipsi\KeepItShort.Persistance\obj\Debug\net6.0\KeepItShort.Persistance.AssemblyInfo.cs
+D:\Programowanie\Apps\Kipsi\KeepItShort.Persistance\obj\Debug\net6.0\KeepItShort.Persistance.csproj.CoreCompileInputs.cache
+D:\Programowanie\Apps\Kipsi\KeepItShort.Persistance\obj\Debug\net6.0\KeepItShort.Persistance.dll
+D:\Programowanie\Apps\Kipsi\KeepItShort.Persistance\obj\Debug\net6.0\refint\KeepItShort.Persistance.dll
+D:\Programowanie\Apps\Kipsi\KeepItShort.Persistance\obj\Debug\net6.0\KeepItShort.Persistance.pdb
+D:\Programowanie\Apps\Kipsi\KeepItShort.Persistance\obj\Debug\net6.0\KeepItShort.Persistance.genruntimeconfig.cache
+D:\Programowanie\Apps\Kipsi\KeepItShort.Persistance\obj\Debug\net6.0\ref\KeepItShort.Persistance.dll
